@@ -98,7 +98,7 @@ const App = () => {
         status: apiStatusConstant.inProgress,
       }))
 
-      const url = `https://run.mocky.io/v3/77a7e71b-804a-4fbd-822c-3e365d3482cc`
+      const url = `https://run.mocky.io/v3/72562bef-1d10-4cf5-bd26-8b0c53460a8e`
       const options = {
         method: 'GET',
       }
